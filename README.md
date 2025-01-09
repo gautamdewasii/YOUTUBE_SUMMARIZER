@@ -35,6 +35,7 @@ YouTube Summarizer is a tool that helps you quickly summarize YouTube videos. It
     ```
 2. Enter the YouTube video URL when prompted.
 3. View the summary of the video.
+![alt text](https://github.com/gautamdewasii/YOUTUBE_SUMMARIZER/blob/main/outputs/images/sample_image1.png?raw=true)
 
 ## Testing
 
@@ -43,4 +44,6 @@ YouTube Summarizer is a tool that helps you quickly summarize YouTube videos. It
     pytest
     ```
 2. That will execute test_summarize.py and test_youtube_utils.py files
+
+![alt text](https://github.com/gautamdewasii/YOUTUBE_SUMMARIZER/blob/main/outputs/images/sample_image2.png?raw=true)
 
